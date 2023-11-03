@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pdf_converter/static/css/main.7347c213.css",
+    "main.js": "/pdf_converter/static/js/main.15e48099.js",
+    "static/js/787.bc4eb466.chunk.js": "/pdf_converter/static/js/787.bc4eb466.chunk.js",
+    "static/media/skillIndia.png": "/pdf_converter/static/media/skillIndia.a0e2cdeda72031ee2b35.png",
+    "static/media/paint.png": "/pdf_converter/static/media/paint.fd8cb3b2904817ddabd9.png",
+    "static/media/waterst.png": "/pdf_converter/static/media/waterst.64b04b0ebc9a39ae516d.png",
+    "static/media/makeinI.png": "/pdf_converter/static/media/makeinI.138a544d1b96876952fd.png",
+    "static/media/ser.png": "/pdf_converter/static/media/ser.bd6976a1f3cb640bf0da.png",
+    "static/media/indiagate.png": "/pdf_converter/static/media/indiagate.51ae004db15844ade118.png",
+    "static/media/g20.png": "/pdf_converter/static/media/g20.3d971fc808575e2b9a21.png",
+    "static/media/images.jpeg": "/pdf_converter/static/media/images.629ce0d26752565ffb35.jpeg",
+    "index.html": "/pdf_converter/index.html",
+    "main.7347c213.css.map": "/pdf_converter/static/css/main.7347c213.css.map",
+    "main.15e48099.js.map": "/pdf_converter/static/js/main.15e48099.js.map",
+    "787.bc4eb466.chunk.js.map": "/pdf_converter/static/js/787.bc4eb466.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7347c213.css",
+    "static/js/main.15e48099.js"
+  ]
+}
